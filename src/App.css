@@ -1,0 +1,265 @@
+
+
+.about-us-text{
+  font-size: 2vw;
+}
+.starting-section{
+  background-image: url('https://curi.com/wp-content/uploads/2018/12/iStock-932074828.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 60vh;
+  
+ 
+}
+
+.body{
+  margin:2% 10%;
+  font-family: 'Source Serif Pro', serif;
+}
+
+.logo{
+  width: 40%;
+  margin-right: 0;
+}
+.logoDiv{
+left: 10%;
+}
+
+
+.mission{
+text-align: center;
+margin: 5% 0;
+}
+
+.mission-text{
+  font-size: 1.25rem;
+}
+
+.navbar{
+  background-color: white;
+  height: 8vh;
+  font-weight: 700;
+  color: black;
+}
+ 
+
+
+.nav-link{
+  margin-right: 30px;
+  font-size: 1.4rem;
+}
+
+.about-text{
+  padding: 1.5%;
+  color: white;
+  background-color:#D71313;
+  text-align: center;
+}
+
+.choose-us-cards{
+  margin:5% 0%;
+ 
+  
+  
+}
+
+.card-body{
+  border-color: black;
+}
+.carousel-img{
+  height: 300px;
+  width: 100%;
+}
+
+.choose-us-card{
+  margin:3% 0;
+  text-align: center;
+  border-color: black;
+}
+
+.card-img-top{
+  transition: transform .2s;
+}
+.card-img-top:hover{
+  transform: scale(1.1);
+}
+
+
+.choose-us-text{
+  text-align: center;
+  
+}
+.card{
+  background-color: #D71313;
+  border-color: black;
+
+}
+
+
+.copyright{
+  margin: auto;
+  align-items: baseline;
+}
+
+.footer{
+  padding:5% 15%;
+  background-color:black;
+  color: white;
+  
+}
+
+.footer-list{
+  list-style-type: none;
+  
+}
+
+.Testimonials{
+  background-color: #D71313;
+}
+
+@media screen and (max-width: 425px) {
+  .footer {
+    padding: 2% 2%;
+  }
+  
+   
+  
+}
+
+.heading{
+  flex:1;
+  text-align: center;
+  justify-content: center;
+  align-self: center;
+  color: white;
+  font-size: 5rem;
+  text-shadow: 2px 4px 4px black;
+}
+
+@media screen and (max-width: 425px) {
+  .heading {
+    font-size: 12vw;
+  }
+  .outpatient-info{
+    margin-bottom: 10%;
+   }
+  
+}
+
+@media screen and (min-width: 426px) {
+ .outpatient-card{
+  width: 30rem;
+  margin: auto;
+  margin-bottom: 9%;
+ }
+  
+}
+
+.heading-image{
+  display: flex;
+  background-image: url('./assets/nutritionFruits.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 80vh;
+}
+.heading-image-git{
+  display: flex;
+  background-image: url('https://images.unsplash.com/photo-1590611936760-eeb9bc598548?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 80vh;
+
+}
+.medicare-heading-image{
+  display: flex;
+  background-image: url('https://img.freepik.com/free-photo/portrait-nurse-scrubs-clinic_23-2149844688.jpg?w=1380&t=st=1691054956~exp=1691055556~hmac=93cdf7d2313fd2510d26afe562536bf3d2d39575fd6548d74d55a4cf09565bce');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 80vh;
+}
+.about-us-heading-image{
+  display: flex;
+  background-image: url('https://img.freepik.com/free-photo/group-african-paramedic-crew-doctors_627829-4957.jpg?w=1380&t=st=1691055027~exp=1691055627~hmac=a90c700945255bdcc348f895b75a070029f11638cf27fe11f8a4dbab214290b4');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 80vh;
+}
+.inpatient-image{
+  display: flex;
+  background-image: url('https://images.pexels.com/photos/3845129/pexels-photo-3845129.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+
+.partners{
+  width: 20vh;
+
+}
+
+@media screen and (max-width: 425px) {
+  .services-text {
+    font-size: 2.4vw;
+  }
+  .service-card{
+    width: 18rem;
+  }
+}
+
+@media screen and (min-width: 426px) {
+  .services-text {
+    font-size: 1.5vw;
+  }
+  .service-card{
+    width: 30rem;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .carousel-texts{
+    font-size: 3.8vw;
+  }
+  .carousel-caption{
+    margin:0
+  }
+
+  .last-text{
+    padding-bottom: 20%;
+  }
+}
+
+.services-text{
+  text-align: center;
+  margin:2.5% 0;
+}
+.service-card{
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  
+}
+
+.active{
+ 
+  
+}
+
+.video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.video-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
