@@ -1,6 +1,5 @@
 import React from 'react'
 import { Row,Col, Form,Button } from 'react-bootstrap'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 
@@ -64,7 +63,7 @@ const Footer = () => {
 
         <Row>
             <Col style={{textAlign:'center'}}>
-            <img style={{width:'20%'}} src=''/>
+            <img alt='footer' style={{width:'20%'}} src=''/>
             </Col>
             </Row>
             <Row>

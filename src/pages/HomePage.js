@@ -7,7 +7,6 @@ import { faClock } from '@fortawesome/free-regular-svg-icons'
 import { faHospital } from '@fortawesome/free-regular-svg-icons'
 import { Carousel } from 'react-bootstrap'
 import { faWheelchairMove } from '@fortawesome/free-solid-svg-icons'
-import Header from '../components/Header'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components';
 

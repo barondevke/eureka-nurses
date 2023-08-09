@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from '../components/Header'
 import { Row, Card, Col} from 'react-bootstrap'
-import Footer from '../components/Footer'
+
 
 const mediCare = () => {
   return (

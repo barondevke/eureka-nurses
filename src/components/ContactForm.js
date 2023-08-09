@@ -1,5 +1,5 @@
 import React from 'react'
-import { Form, Button,Row,Col,FloatingLabel } from 'react-bootstrap'
+import { Form, Button,Row,Col } from 'react-bootstrap'
 import { faPhone,faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAddressCard } from '@fortawesome/free-regular-svg-icons'

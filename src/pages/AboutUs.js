@@ -55,7 +55,7 @@ const AboutUs = () => {
       </h2>
       <Row>
         <Col >
-        <img className='partners' src='https://www.trinitycare.co.ke/wp-content/uploads/2022/02/logo-1.png'/>
+        <img className='partners' src='https://www.trinitycare.co.ke/wp-content/uploads/2022/02/logo-1.png' alt='partner'/>
         </Col>
       </Row>
 
