@@ -63,7 +63,7 @@ const Footer = () => {
 
         <Row>
             <Col style={{textAlign:'center'}}>
-            <img alt='footer' style={{width:'20%'}} src=''/>
+            <img alt='footer' style={{width:'20%'}} src={require('./eureka-logo.jpg')} />
             </Col>
             </Row>
             <Row>
